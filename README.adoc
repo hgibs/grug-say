@@ -1,5 +1,7 @@
 = grug-say
 
+IMPORTANT: Grug sayings new home at https://codeberg.org/humble_proton/grug-say no more change here
+
 > grug brain developer not so smart
 
 https://grugbrain.dev[grugbrain.dev]
